@@ -1,4 +1,3 @@
-# CursoGit-Fazt
-Notas que tomé del Curso/Video de Git hecho por Fazt
+Notas del curso práctico de Git creado por Fazt
 
-link del curso: https://youtu.be/HiXLkL42tMU
+link curso: https://youtu.be/HiXLkL42tMU
